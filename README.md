@@ -1,8 +1,6 @@
 
 # Olá eu sou o Ag 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronega191&show_icons=true&theme=radical) 
-br/
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronega191&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronega191&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronega191&layout=compact)
 ## 🚀 Sobre mim
 Estudante de programação e sempre buscando melhorar
 ## 🛠 Habilidades
